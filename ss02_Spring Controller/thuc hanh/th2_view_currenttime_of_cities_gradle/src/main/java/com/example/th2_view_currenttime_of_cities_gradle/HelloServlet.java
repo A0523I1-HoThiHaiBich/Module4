@@ -1,4 +1,4 @@
-package com.example.bt2_simple_dictionary;
+package com.example.th2_view_currenttime_of_cities_gradle;
 
 import java.io.*;
 import javax.servlet.http.*;
